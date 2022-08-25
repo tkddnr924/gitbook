@@ -24,4 +24,4 @@
 
 ## zip
 
-* [make zip](zip/make-zip.md)
+* [MAKE ZIP with PYTHON](zip/make-zip-with-python.md)

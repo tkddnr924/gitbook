@@ -1,4 +1,8 @@
-# make zip
+---
+description: 파이썬으로 zip 파일 만들기
+---
+
+# MAKE ZIP with PYTHON
 
 ## 모듈
 
